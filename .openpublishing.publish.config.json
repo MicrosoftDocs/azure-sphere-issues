@@ -18,7 +18,8 @@
     }
   ],
   "notification_subscribers": [
-    "v-peorwi@microsoft.com"
+    "v-peorwi@microsoft.com",
+    " v-esalc@Microsoft.com"
   ],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
@@ -34,5 +35,6 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "targets": {}
 }
