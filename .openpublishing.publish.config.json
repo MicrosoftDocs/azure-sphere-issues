@@ -18,9 +18,7 @@
     }
   ],
   "notification_subscribers": [
-    "pennyo@microsoft.com",
-    " v-esalc@Microsoft.com",
-    "v-toph@microsoft.com"
+    "azurespheredocs@microsoft.com"
   ],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
